@@ -15,7 +15,7 @@ _Freelance Software Development_
 - Rock solid **C#** backend and mobile solutions
 - High performance **C++** trading systems
 - **iOS** and **Android** apps with **Xamarin** and **React Native**
-- Cross platform development (**Windows**, **Linux**, **macOS**)
+- Cross platform development on **Windows**, **Linux**, and **macOS**
 - **DevOps** and **Cloud computing** with **Azure** and **AWS**
 
 Write Sebastian at [sebbarg@gmail.com](mailto:sebbarg@gmail.com) for more information.
