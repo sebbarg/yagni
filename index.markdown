@@ -14,7 +14,6 @@ _Freelance Software Development_
 - Full-stack web development with NET Core, JavaScript, TypeScript and React
 - Rock solid C# backend and mobile solutions
 - High performance C++ trading systems
-- Full-stack JavaScript web development
 - iOS and Android apps with Xamarin and React Native
 - Cross platform development (Windows, Linux, OS X)
 - DevOps and Cloud computing with Azure and AWS
