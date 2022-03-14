@@ -8,7 +8,7 @@ title: YAGNI
 
 _Freelance Software Development_
 
-25+ years professional expert experience with (but not limited to):
+20+ years professional expert experience with (but not limited to):
 
 - Software architecture and design
 - Full-stack web development with NET Core, JavaScript, TypeScript and React
