@@ -11,13 +11,13 @@ _Freelance Software Development_
 25+ years professional expert experience with (but not limited to):
 
 - Software architecture and design
-- High performance C++ trading systems
+- Full-stack web development with NET Core, JavaScript, TypeScript and React
 - Rock solid C# backend and mobile solutions
+- High performance C++ trading systems
 - Full-stack JavaScript web development
 - iOS and Android apps with Xamarin and React Native
-- Low-level Windows programming
-- DevOps with Docker, Azure and AWS
 - Cross platform development (Windows, Linux, OS X)
+- DevOps and Cloud computing with Azure and AWS
 
 Write Sebastian at [sebbarg@gmail.com](mailto:sebbarg@gmail.com) for more information.
 
